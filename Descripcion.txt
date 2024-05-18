@@ -1,0 +1,7 @@
+herramienta para dar seguimiento a nuestros clientes
+
+Podemos agregar clientes con campos con validacion.
+Al agregarlo podemos verlo en el listado de clientes.
+Podemos editarlos y eliminarlos en cualquier momento.
+Estos cambios se almacenan en IndexDB.
+
